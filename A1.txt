@@ -45,7 +45,18 @@
 
         .logo {
 		/* Figure out how to move the logo to the right and set the dimensions (marging, width, padding, etc) of the image box! (2 marks) */
+		
+		float:right;
+		height: 180px;
+		width: 130px;
 
+		margin-bottom: auto;
+		margin-right: 40px;
+		margin-left: auto;
+
+		padding-left: auto;
+		padding-right: auto;
+		padding-top: 10px;
         }
 
         .clearfix {
