@@ -30,7 +30,17 @@
         }
 
         p {
-	 	/* Use "Raleway" font from Google Fonts!.  Check line-height and padding CSS attributes. (2.5 marks)*/
+	 	/* Use "Raleway" font from Google Fonts!.  Check line-height and padding CSS attributes. (2.5 marks*/
+		
+		font-family: "Raleway"; 
+		font-size: 22px; 
+		line-height: auto; 
+		padding-top: 10px;
+		padding-bottom: 50px;
+		padding-right: 250px;
+		padding-left: 50px;
+
+		margin-bottom: -40px;
         }
 
         .logo {
